@@ -1,0 +1,6 @@
+.idea
+.CMakeBuild/*
+3rdparty/.CMakeFiles/*
+3rdparty/.CMakeBuild/*
+.vs
+*.log
